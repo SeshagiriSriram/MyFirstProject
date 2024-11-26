@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 14F1-952B
+
+ Directory of C:\coolproject
+
+26-11-2024  10:24    <DIR>          .
+26-11-2024  10:16               580 a.txt
+26-11-2024  10:24                 0 d.txt
+               2 File(s)            580 bytes
+               1 Dir(s)  874,923,806,720 bytes free
